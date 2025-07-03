@@ -1,0 +1,8 @@
+src/pages/Cart.tsx
+src/pages/Equipment.tsx
+src/pages/EquipmentDetail.tsx
+src/pages/EquipmentRental.tsx
+src/pages/Checkout.tsx
+src/pages/Packages.tsx
+src/pages/PackageDetail.tsx
+src/pages/OrderTracking.tsx
